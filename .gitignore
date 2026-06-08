@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Claude Code ローカル設定(個人のpermission許可リスト)
+.claude/settings.local.json
+
+# Excel 一時ファイル
+~$*.xlsx
+~$*.xlsm
+
+# OS / エディタ生成物
+Thumbs.db
+.idea/
+.vscode/
